@@ -109,8 +109,13 @@
       "id": 2
     }
   ],
-  "neighborhood": {
+  "neighborhood": [{
     "name": "Barrio actualizado",
     "id": 1
+  },
+  {
+    "name": "Barrio actualizado",
+    "id": 2
   }
-}
+]
+} 

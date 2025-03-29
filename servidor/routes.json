@@ -1,5 +1,5 @@
 {
-    "/city/:id": "/ciudad/:id",
-    "/department/:id": "/departamento/:id",
-    "/neighborhood/:id": "/barrio/:id"
+    "/ciudad/:id": "/city/:id",
+    "/departamento/:id": "/department/:id",
+    "/barrio/:id": "/neighborhood/:id"
 }
